@@ -1,4 +1,4 @@
-# nodemailsubscriber
+# node-mailsubscriber
 
 This is my First NodeJS Project With Mailchimp API
 
